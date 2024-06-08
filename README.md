@@ -1,4 +1,4 @@
-## FAQ Questions<
+## FAQ Questions
 • Practicing useState, props, map, short circuit evalution and spread operator  ✅
 
 ## Screenshots 📱
